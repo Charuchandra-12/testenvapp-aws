@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Chinmay Kubal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1505.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
 }
